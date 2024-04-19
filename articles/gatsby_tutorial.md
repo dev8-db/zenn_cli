@@ -2,7 +2,7 @@
 title: "Gatsby.js 入門"
 emoji: "🍯"
 type: "tech"
-topics: [gatsby]
+topics: [react, gatsby]
 published: true
 ---
 
