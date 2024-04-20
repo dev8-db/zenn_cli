@@ -86,7 +86,7 @@ https://www.youtube.com/watch?v=vzuv4rP6jpY
 ```
 convert 入力ファイル名.svg 出力ファイル名.jpeg
 ```
-
+あ
 #### Windows
 1. [ImageMagickのダウンロードページ](https://imagemagick.org/script/download.php)からインストーラーをダウンロードします。
 2. ダウンロードしたインストーラーを実行し、指示に従ってインストールします。
