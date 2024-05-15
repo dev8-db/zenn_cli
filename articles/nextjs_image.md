@@ -1,6 +1,6 @@
 ---
 title: "【Next.js】なぜimgタグではなくnext/imageを使うのか"
-emoji: "🍣"
+emoji: "🎨"
 type: "tech"
 topics: [next]
 published: true
